@@ -12,7 +12,7 @@ Intern - PHP team
 
 
 
-Daily Status update - 2019/02/07
+Daily Status update
 
 
 
