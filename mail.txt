@@ -1,0 +1,25 @@
+Hi Anandhan,
+
+Assigned Task: Basic of the xamp server and how to install.
+       Learned about basic programming syntax in php and integrating html form with php
+ I am refer tutorialspoint website and easy to learned 
+Task Status : In progress
+
+Regards,
+Janakarathinam M
+Intern - PHP team
+
+
+
+
+Daily Status update - 2019/02/07
+
+
+
+
+
+https://phpgurukul.com/difference-between-mysql_fetch_array-and-mysql_fetch_assoc-and-mysql_fetch_row/
+
+
+
+ftp://ftp.hp.com/pub/idr/ImageDiags/
